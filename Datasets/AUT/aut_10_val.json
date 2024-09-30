@@ -131,33 +131,6 @@
   "Examples": [
     {
       "object": "Fork"
-    },
-    {
-      "object": "Jar"
-    },
-    {
-      "object": "Mirror"
-    },
-    {
-      "object": "Mug"
-    },
-    {
-      "object": "Blanket"
-    },
-    {
-      "object": "Scarf"
-    },
-    {
-      "object": "Ring"
-    },
-    {
-      "object": "Racket"
-    },
-    {
-      "object": "Glove"
-    },
-    {
-      "object": "Sheet"
     }
   ],
   "Amount": 10
