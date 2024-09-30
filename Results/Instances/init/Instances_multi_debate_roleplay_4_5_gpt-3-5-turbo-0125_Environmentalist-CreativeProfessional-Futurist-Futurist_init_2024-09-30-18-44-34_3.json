@@ -1,0 +1,177 @@
+[
+    {
+        "question": "Name all the round things you can think of.",
+        "answer": [
+            "Earth - the planet we call home, which we must protect and preserve for future generations.",
+            "Sun - a round star at the center of our solar system, providing energy and warmth to sustain life on Earth.",
+            "Moon - a round celestial body that orbits our planet, influencing the tides and providing natural light at night.",
+            "Orange - a round fruit known for its vitamin C content and vibrant color.",
+            "Pizza - a popular round food loved by many for its delicious combination of toppings.",
+            "Soccer ball - a round sports equipment used in the game of soccer, promoting physical activity and teamwork.",
+            "Clock - a round timekeeping device that helps us stay organized and punctual in our daily lives.",
+            "Coins - round currency used for transactions and trade, symbolizing value and economic exchange.",
+            "Plates - round dishes used for serving food and meals, encouraging sustainable eating habits and reducing waste.",
+            "Wheels - round components on vehicles and machinery that enable movement and transportation, contributing to efficiency and connectivity."
+        ],
+        "Agent": "GPT Agent 6 - Environmentalist"
+    },
+    {
+        "question": "Name all the round things you can think of.",
+        "answer": [
+            "The sun",
+            "Moon",
+            "Pizza",
+            "Basketball",
+            "Tennis ball",
+            "Globe",
+            "Wheel",
+            "CD",
+            "Clock",
+            "Doughnut"
+        ],
+        "Agent": "GPT Agent 4 - Creative Professional"
+    },
+    {
+        "question": "Name all the round things you can think of.",
+        "answer": [
+            "The sun",
+            "The moon",
+            "A basketball",
+            "A soccer ball",
+            "A wheel",
+            "A clock",
+            "A donut",
+            "A plate",
+            "A beach ball",
+            "A frisbee"
+        ],
+        "Agent": "GPT Agent 10-1 - Futurist"
+    },
+    {
+        "question": "Name all the round things you can think of.",
+        "answer": [],
+        "Agent": "GPT Agent 10-2 - Futurist"
+    },
+    {
+        "question": "Name all the things you can think of that will make a noise.",
+        "answer": [
+            "Cars honking",
+            "Airplanes flying overhead",
+            "Sirens from emergency vehicles",
+            "Construction work",
+            "Barking dogs",
+            "Thunderstorms",
+            "Wind chimes",
+            "Birds chirping",
+            "Music playing",
+            "People talking",
+            "Waves crashing on the shore",
+            "Doors slamming",
+            "Alarm clocks ringing",
+            "Lawnmowers",
+            "Trains passing by"
+        ],
+        "Agent": "GPT Agent 6 - Environmentalist"
+    },
+    {
+        "question": "Name all the things you can think of that will make a noise.",
+        "answer": [
+            "Thunder",
+            "Whistling wind",
+            "Running water in a stream",
+            "A crackling fireplace",
+            "Bees buzzing",
+            "A ticking clock",
+            "A creaking door",
+            "Rustling leaves",
+            "A howling wolf",
+            "A honking car horn"
+        ],
+        "Agent": "GPT Agent 4 - Creative Professional"
+    },
+    {
+        "question": "Name all the things you can think of that will make a noise.",
+        "answer": [
+            "Traditional musical instruments such as drums, guitars, and trumpets",
+            "Electronic devices like smartphones, tablets, and laptops with notification alerts",
+            "Vehicles such as cars, trucks, motorcycles, and airplanes",
+            "Natural phenomena like thunder, rain, and wind",
+            "Household appliances like refrigerators, washing machines, and dishwashers",
+            "Industrial machinery like turbines, generators, and construction equipment",
+            "Animals such as dogs, cats, birds, and insects",
+            "Human activities like clapping, humming, and speaking",
+            "Sporting events like cheering crowds, whistles, and buzzers",
+            "Nature sounds like chirping crickets, rustling leaves, and crashing waves"
+        ],
+        "Agent": "GPT Agent 10-1 - Futurist"
+    },
+    {
+        "question": "Name all the things you can think of that will make a noise.",
+        "answer": [
+            "Self-driving cars and electric vehicles - the hum of their engines or the sound of their tires on the road.",
+            "Drones delivering packages or monitoring crops - the whirring of their propellers.",
+            "Virtual reality and augmented reality headsets - the sounds of the virtual worlds or information overlaid on the real world.",
+            "Robots in households or workplaces - the mechanical movements and beeps they make.",
+            "Hydrogen fuel cell technology - the sound of hydrogen being converted into electricity.",
+            "3D printers creating objects layer by layer - the whirring and clicking of their mechanisms.",
+            "Artificial intelligence algorithms processing data - the electronic hum of servers and computers.",
+            "Space tourism rockets launching into orbit - the thunderous roar of their engines.",
+            "Biometric scanners for security - the beeps and buzzes as they scan fingerprints or facial features.",
+            "Smart cities with interconnected devices - the constant background noise of sensors and communication networks."
+        ],
+        "Agent": "GPT Agent 10-2 - Futurist"
+    },
+    {
+        "question": "Name all the square things you can think of.",
+        "answer": [
+            "Square solar panels",
+            "Square recycling bins",
+            "Square compost bins",
+            "Square reusable water bottles",
+            "Square eco-friendly building materials",
+            "Square plant pots",
+            "Square sustainable furniture",
+            "Square energy-efficient appliances",
+            "Square biodegradable packaging",
+            "Square sustainable farming plots"
+        ],
+        "Agent": "GPT Agent 6 - Environmentalist"
+    },
+    {
+        "question": "Name all the square things you can think of.",
+        "answer": [
+            "Picture frames",
+            "Rubik's Cube",
+            "Post-it notes",
+            "Checkerboard",
+            "Windows on a building",
+            "A s'more (when perfectly assembled)",
+            "A quilt made of square patches",
+            "A chessboard cake",
+            "A pixelated image on a screen",
+            "A block of tofu"
+        ],
+        "Agent": "GPT Agent 4 - Creative Professional"
+    },
+    {
+        "question": "Name all the square things you can think of.",
+        "answer": [
+            "Rubik's Cube",
+            "Post-it notes",
+            "TV screen",
+            "Chess board",
+            "Sticky notes",
+            "Ice cube tray",
+            "Chocolate bar",
+            "Window panes",
+            "Bookshelf",
+            "Graph paper"
+        ],
+        "Agent": "GPT Agent 10-1 - Futurist"
+    },
+    {
+        "question": "Name all the square things you can think of.",
+        "answer": [],
+        "Agent": "GPT Agent 10-2 - Futurist"
+    }
+]
