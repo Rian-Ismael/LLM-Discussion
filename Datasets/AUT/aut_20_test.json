@@ -179,36 +179,6 @@
         },
         {
             "object": "Shoe"
-        },
-        {
-            "object": "Card"
-        },
-        {
-            "object": "Tire"
-        },
-        {
-            "object": "Basket"
-        },
-        {
-            "object": "Candle"
-        },
-        {
-            "object": "Teddy bear"
-        },
-        {
-            "object": "Drum"
-        },
-        {
-            "object": "Shovel"
-        },
-        {
-            "object": "Flashlight"
-        },
-        {
-            "object": "Lid"
-        },
-        {
-            "object": "Zipper"
         }
     ],
     "Amount": 30
